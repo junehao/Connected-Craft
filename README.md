@@ -6,12 +6,18 @@ Updated: October 2018.
 * [Connected Craft and Object Society](#connected-craft-and-obejct-society)
 * [NodeMCU 101](#nodemcu-101)
 
-## NodeMCU Tutorials
-1. Digital Output & Input
-1. Analog Output & Input
-
 ## Connected Craft and Object Society
 
-A craft is a cultural entity, a man-made object, and a daily work of art.
+* A __craft__ is a cultural entity, a man-made object, and a functional work of art.
+* A __smart craft__ is a man-made object that can sense and react with certain intelligence.
+* The __connected craft__ is smart crafts that can communicate to each other.
+* An __object society__ is a society made of connected crafts.
+* To imagine the object society, use [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) or personification.
 
-The connected craft is crafts that can communicate to each other and react to what it received.
+## NodeMCU 101
+
+
+
+### Tutorials
+1. Digital Output & Input
+1. Analog Output & Input
