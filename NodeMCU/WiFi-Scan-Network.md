@@ -1,6 +1,6 @@
-# Code sample
+# WiFi Scan Network
 
-Here is a syntac highlighting example.
+Here is an example from ESP8266.COM.
 
 ```C++
 #include "ESP8266WiFi.h"
@@ -45,3 +45,5 @@ void loop() {
   delay(5000);
 }
 ```
+
+Note: Open the Arduino Serial Monitor to verify operation.
