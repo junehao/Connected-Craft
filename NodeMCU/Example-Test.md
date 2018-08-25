@@ -2,7 +2,7 @@
 
 Here is a syntac highlighting example.
 
-```Arduino
+```C++
 #include "ESP8266WiFi.h"
 
 void setup() {
