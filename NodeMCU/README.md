@@ -9,16 +9,17 @@ An open source IoT prototyping platform with ESP8266 WiFi SoC.\
 
 ## Setting up Arduino IDE
 Setup Arduino IDE to work with NodeMCU y following the steps.
-1. Adding board definitions for NodeMCU.
+1. Adding board modules for NodeMCU.
    * From __File__ menu, select __Preferences...__ to open Preferences Dialog.
    * In the field __Additional Boards Manager URLs__ insert the URL:\
      `http://arduino.esp8266.com/stable/package_esp8266com_index.json`
-   * From __Tools > Board__ menu, select __Boards Manager...__. In the __Boards Manager__, select __esp8266__ from the list and install.
+   * From __Tools > Board__ menu, select __Boards Manager...__.
+   * In the __Boards Manager__, select __esp8266__ from the list and install.
 2. Configuring for the board.
-   * From __Tools > Board__, select `NodeMCU 1.0 (ESP-12E Module)`.
-   * From __Tools > CPU Frequency__, select `80 MHz`.
-   * From __Tools > Upload Speed__, select `115200`.
-   * From __Tools > Port__, select the corrisponding COM port or USB port.
+   * From __Tools > Board__ menu, select __NodeMCU 1.0 (ESP-12E Module)__ in the __ESP8266 Modules__ section.
+   * From __Tools > CPU Frequency__ menu, select __80 MHz__.
+   * From __Tools > Upload Speed__ menu, select __115200__.
+   * From __Tools > Port__ menu, select the corrisponding COM port or USB port.
 
 ----
 References:
