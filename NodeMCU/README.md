@@ -1,11 +1,16 @@
 # NodeMCU
+<img src="img/nodemcu_400.png" width="120" />
 
 An open source IoT prototyping platform with ESP8266 WiFi SoC.\
 [Official website](http://nodemcu.com/index_en.html) | [GitHub](https://github.com/nodemcu) | [Wikipedia](https://en.wikipedia.org/wiki/NodeMCU)
 
-1. [Setting up NodeMCU](#setting-up-nodemcu)
+1. [About NodeMCU](#about-nodemcu)
+1. [Setting up Arduino IDE](#setting-up-arduino-ide)
 1. Example
 1. Example
+
+## About NodeMCU
+<img src="img/nodemcu_pinout.jpg" width="300" />
 
 ## Setting up Arduino IDE
 Setup Arduino IDE to work with NodeMCU y following the steps.
