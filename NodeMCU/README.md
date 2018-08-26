@@ -25,6 +25,11 @@ Setup Arduino IDE to work with NodeMCU by following the steps.
    * From __Tools > CPU Frequency__ menu, select __80 MHz__.
    * From __Tools > Upload Speed__ menu, select __115200__.
    * From __Tools > Port__ menu, select the corrisponding COM port or USB port.
+3. Install required libraries.
+   * From __Sketch > Include Library__, select __Manage Libraries...__.
+   * Search and install the following libraries:\
+     `PubSubClient`\
+     `ArduinoJson`
 
 按以下步驟設定 Arduino IDE 加入 NodeMCU 支援。 
 1. 增添 NodeMCU 開發版模組
