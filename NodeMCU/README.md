@@ -13,7 +13,7 @@ An open source IoT prototyping platform with ESP8266 WiFi SoC.\
 <img src="img/nodemcu_pinout.png" width="400" />
 
 ## Setting up Arduino IDE
-Setup Arduino IDE to work with NodeMCU y following the steps.
+Setup Arduino IDE to work with NodeMCU by following the steps.
 1. Adding board modules for NodeMCU.
    * From __File__ menu, select __Preferences...__ to open Preferences Dialog.
    * In the field __Additional Boards Manager URLs__ insert the URL:\
@@ -27,7 +27,7 @@ Setup Arduino IDE to work with NodeMCU y following the steps.
    * From __Tools > Port__ menu, select the corrisponding COM port or USB port.
 
 ----
-References:
+More tutorials:
 * https://oranwind.org/-esp8266-nodemcu-zai-arduino-ide-she-ding-nodemcu/
 * http://web.htjh.tp.edu.tw/B4/106iot/NodeMCU使用介紹.pdf
 * http://pizgchen.blogspot.com/2017/04/nodemcu-lab0.html
