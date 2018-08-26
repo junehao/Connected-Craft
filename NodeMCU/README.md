@@ -1,6 +1,5 @@
-<img src="img/nodemcu_400.jpg" width="120" align="right" />
-
 # NodeMCU
+<img src="img/nodemcu_400.jpg" width="120" align="right" />
 
 An open source IoT prototyping platform with ESP8266 WiFi SoC.\
 [Official website](http://nodemcu.com/index_en.html) | [GitHub](https://github.com/nodemcu) | [Wikipedia](https://en.wikipedia.org/wiki/NodeMCU)
