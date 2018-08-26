@@ -13,8 +13,7 @@ const int ledPin =  13;      // the number of the LED pin
 ```
 
 into:
-```
+```C++
 const int buttonPin = D7;     // the number of the pushbutton pin
 const int ledPin =  D8;      // the number of the LED pin
-
 ```
