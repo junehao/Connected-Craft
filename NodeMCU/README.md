@@ -6,7 +6,7 @@ An open source IoT prototyping platform with ESP8266 WiFi SoC.\
 
 1. [About NodeMCU](#about-nodemcu)
 1. [Setting up Arduino IDE](#setting-up-arduino-ide)
-1. [WiFi Scan Network](WiFi-Scan-Network)
+1. [WiFi Scan Network](WiFi-Scan-Network.md)
 1. Example
 
 ## About NodeMCU
