@@ -1,10 +1,11 @@
 # Node-RED
+<img src="Node-red-icon.png" width="120" align="right" />
 
 Use Node-RED to bridge Yahoo! Weather information to MQTT.
 
 ## Requirements:
-* [ ] MQTT Broker
-* [ ] Node-RED
+[ ] Node-RED
+[ ] MQTT Broker
 
 利用 Node-RED 將 Yahoo! 天氣資訊轉發至 MQTT。
 
