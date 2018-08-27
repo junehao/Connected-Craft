@@ -2,7 +2,7 @@
 
 ## Wiring chart
 
-<img src="nodemcu_button.png" width="400" />
+<img src="img/nodemcu_button.png" width="400" />
 
 ## Code
 From __File > Examples > 02.Digital__ menu, select __Button__.
