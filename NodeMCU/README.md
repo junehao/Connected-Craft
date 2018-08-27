@@ -39,7 +39,6 @@ MQTT is a publish-subscribe-based messaging protocol and is especially suitable 
 ### Useful information
 * [Public MQTT Brokers](https://github.com/mqtt/mqtt.github.io/wiki/public_brokers)
 
-
 ----
 More tutorials:
 * https://oranwind.org/-esp8266-nodemcu-zai-arduino-ide-she-ding-nodemcu/
