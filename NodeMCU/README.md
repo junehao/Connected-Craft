@@ -6,8 +6,9 @@ An open source IoT prototyping platform with ESP8266 WiFi SoC.\
 
 1. [About NodeMCU](#about-nodemcu)
 1. [Setting up Arduino IDE](#setting-up-arduino-ide)
-1. [WiFi Scan Network](WiFi-Scan-Network.md)
-1. Example
+1. [Digital Input: Button](Digital-Input-Button.md)
+1. [WiFi: Scan Network](WiFi-Scan-Network.md)
+1. [MQTT]
 
 ## About NodeMCU
 <img src="img/nodemcu_pinout.png" width="400" />
@@ -30,6 +31,14 @@ Setup Arduino IDE to work with NodeMCU by following the steps.
    * Search and install the following libraries:\
      `PubSubClient`\
      `ArduinoJson`
+
+## MQTT
+
+MQTT is a publish-subscribe-based messaging protocol and is especially suitable for M2M (machine-to-machine) communication.
+
+### Useful information
+* [Public MQTT Brokers](https://github.com/mqtt/mqtt.github.io/wiki/public_brokers)
+
 
 ----
 More tutorials:
