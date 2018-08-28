@@ -8,8 +8,8 @@
 ## Introduction
 
 * [Kumiki](https://hidakuma.com/kumiki/)
-* Ikibana
-* [IoT: Arduino, MESH, Raspberry Pi, Alexa](https://github.com/kotobuki/Smart-Craft-Studio-2016)
+* Ikibana (Kado)
+* [Physical computing](https://github.com/kotobuki/Smart-Craft-Studio-2016)
 * [MESH](http://meshprj.com/jp)
 
 ## Team projects
@@ -42,7 +42,7 @@
   * Day 11: [Physical computing & Kumiki](https://www.flickr.com/photos/hidakuma/albums/72157669064437651)
   * Day 12: [Workshop at Hida-sangyo](https://www.flickr.com/photos/hidakuma/albums/72157669529437365)
   * Day 13: [Architectural wood working](https://www.flickr.com/photos/hidakuma/albums/72157669460328186)
-    * [Court yard chatting](https://www.flickr.com/photos/hidakuma/27380911784)
+    * [Court yard chatting](https://www.flickr.com/photos/hidakuma/albums/72157669829951711)
   * Day 14: [Design studio](https://www.flickr.com/photos/hidakuma/albums/72157666923906774)
   * Day 15: [Interim review](https://www.flickr.com/photos/hidakuma/albums/72157669003338530)
     * [Kado & Sado workshop](https://www.flickr.com/photos/hidakuma/albums/72157669078822860)
