@@ -25,6 +25,7 @@ Updated: October 2018.
 
 ## The Origin
 
-In 2016, I was luckily invited to the 4-week Smart Craft Workshop in the newly established FabCafe Hida at Hida Furukawa (飛驒古川), Japan, with partner schools such as University of Toronto, the New School Parsons NYC, and University of Tokyo. In the workshop, we learned traditional Japanese woodcraft techniques Kumiki (組木; wooden joinery) and latest IoT interaction technologies from masters and professionals. In the end, we made several craftworks by combining these two techniques. Two extremely unrelated realms fused perfectly in these works. &rarr; [Read more story here](https://www.facebook.com/notes/loftwork-asia/smart-craft-studio-特派員觀察週記/600577456786963/)
+In 2016, I was luckily invited to the 4-week Smart Craft Workshop in the newly established FabCafe Hida at Hida Furukawa (飛驒古川), Japan, with partner schools such as University of Toronto, the New School Parsons NYC, and University of Tokyo. In the workshop, we learned traditional Japanese woodcraft techniques Kumiki (組木; wooden joinery) and latest IoT interaction technologies from masters and professionals. In the end, we made several craftworks by combining these two techniques. Two extremely unrelated realms fused perfectly in these works.
 
-&rarr; [Tutorials for Arduino, MESH, Raspberry Pi, Node-RED and Amazon Alexa, by Shigeru Kobayashi](https://github.com/kotobuki/Smart-Craft-Studio-2016)
+* &rarr; [Read more story here](https://www.facebook.com/notes/loftwork-asia/smart-craft-studio-特派員觀察週記/600577456786963/) (Chinese)
+* &rarr; [Tutorials by Shigeru Kobayashi](https://github.com/kotobuki/Smart-Craft-Studio-2016)
