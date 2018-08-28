@@ -17,6 +17,14 @@ Updated: October 2018.
   * to retain close relationships between objects and people
   * to define the role of objects (crafts): public or private, standalone or interfacial, decorative or functional
 
+## Related links
+
+* [MQTT Essentials on HiveMQ](https://www.hivemq.com/mqtt-essentials/)
+* [Makee.io Blog](https://oranwind.org)
+* [網昱多媒體](https://swf.com.tw)
+
 ## The Origin
 
 In 2016, I was luckily invited to the 4-week Smart Craft Workshop in the newly established FabCafe Hida at Hida Furukawa (飛驒古川), Japan, with partner schools such as University of Toronto, the New School Parsons NYC, and University of Tokyo. In the workshop, we learned traditional Japanese woodcraft techniques Kumiki (組木; wooden joinery) and latest IoT interaction technologies from masters and professionals. In the end, we made several craftworks by combining these two techniques. Two extremely unrelated realms fused perfectly in these works. &rarr; [Read more story here](https://www.facebook.com/notes/loftwork-asia/smart-craft-studio-特派員觀察週記/600577456786963/)
+
+&rarr; [Tutorials for Arduino, MESH, Raspberry Pi, Node-RED and Amazon Alexa, by Shigeru Kobayashi](https://github.com/kotobuki/Smart-Craft-Studio-2016)
