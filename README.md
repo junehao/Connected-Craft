@@ -11,6 +11,11 @@ Updated: October 2018.
 * Just like human society, an object society is a complex network full of various communications and activities.
 * To imagine the object society, use [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) or personification.
 * Need more inspirations about the object society? Watch [Wall-E](https://en.wikipedia.org/wiki/WALL-E), [Toy Story](https://en.wikipedia.org/wiki/Toy_Story), [Beauty and the Beast](https://en.wikipedia.org/wiki/Beauty_and_the_Beast_\(1991_film\)), and [Night at the Museum](https://en.wikipedia.org/wiki/Night_at_the_Museum).
+* Challenges of making Connected Craft are:
+  * to fuse craftsmanship and technology, in terms of form and function
+  * to imaging social relationships among objects (crafts)
+  * to retain close relationships between objects and people
+  * to define the role of objects (crafts): public or private, standalone or interfacial, decorative or functional
 
 ## The Origin
 
