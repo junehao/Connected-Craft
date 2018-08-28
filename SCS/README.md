@@ -6,6 +6,11 @@
 
 ## Introduction
 
+* [Kumiki](https://hidakuma.com/kumiki/)
+* Ikibana
+* [IoT: Arduino, MESH, Raspberry Pi, Alexa](https://github.com/kotobuki/Smart-Craft-Studio-2016)
+* [MESH](http://meshprj.com/jp)
+
 ## Works
 
 ### 1. Work #1
