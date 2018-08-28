@@ -1,6 +1,6 @@
 # Digital Input - Button
 
-## Wiring chart
+## Wiring diagram
 
 <img src="img/nodemcu_button.png" width="400" />
 
