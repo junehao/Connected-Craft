@@ -6,9 +6,9 @@ An open source IoT prototyping platform with ESP8266 WiFi SoC.\
 
 1. [About NodeMCU](#about-nodemcu)
 1. [Setting up Arduino IDE](#setting-up-arduino-ide)
-1. [Digital Input: Button](Digital-Input-Button.md)
-1. [WiFi: Scan Network](WiFi-Scan-Network.md)
-1. [MQTT]
+1. [MQTT](#mqtt)
+1. Example: [Digital Input: Button](Digital-Input-Button.md)
+1. Example: [WiFi: Scan Network](WiFi-Scan-Network.md)
 
 ## Spec
 ### Pinout
