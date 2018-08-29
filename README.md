@@ -2,6 +2,14 @@
 Tutorials for Connected Craft workshop, which is part of IDF YunTech International Workshop since 2015.\
 Updated: October 2018.
 
+## Symbiosis 2018: CC Projects 
+
+| Project | Id | Topic | Format |
+---------------------------------
+| (global) | Junehao | ccState | "0"=Stop, "1"=Start |
+| (global) | Gonwan | gwTopic | NA |
+| Tony | Tony | tonyTopic | NA |
+
 ## Connected Craft and Object Society
 
 * A __craft__ is a cultural entity, a man-made object, and a functional work of art.
