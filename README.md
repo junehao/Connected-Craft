@@ -6,9 +6,15 @@ Updated: October 2018.
 
 | Project | Id | Topic | Format |
 |---------|----|-------|--------|
-| (global) | Junehao | ccState | "0"=Stop, "1"=Start |
-| (global) | Gonwan | gwTopic | NA |
-| Tony | Tony | tonyTopic | NA |
+| -- | Junehao | ccState | "0"=Stop, "1"=Start |
+| -- | Gonwan | gwTopic | -- |
+| -- | Tony | tonyTopic | -- |
+| -- | Eeshan | ebTopic | -- |
+| -- | Kelvin | kelTopic | -- |
+| -- | Liddia | lidTopic | -- |
+| -- | Yen | yenTopic | -- |
+| -- | Su | suTopic | -- |
+| -- | Orz | orzTopic | -- |
 
 ## Connected Craft and Object Society
 
