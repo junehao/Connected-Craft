@@ -5,7 +5,7 @@ Updated: October 2018.
 ## Symbiosis 2018: CC Projects 
 
 | Project | Id | Topic | Format |
----------------------------------
+|---------|----|-------|--------|
 | (global) | Junehao | ccState | "0"=Stop, "1"=Start |
 | (global) | Gonwan | gwTopic | NA |
 | Tony | Tony | tonyTopic | NA |
