@@ -4,17 +4,27 @@ Updated: October 2018.
 
 ## Symbiosis 2018: CC Projects 
 
-| Project | Id | Topic | Format |
-|---------|----|-------|--------|
-| -- | Junehao | ccState | "0"=Stop, "1"=Start |
-| -- | Gonwan | gwTopic | -- |
-| -- | Tony | tonyTopic | -- |
-| -- | Eeshan | ebTopic | -- |
-| -- | Kelvin | kelTopic | -- |
-| -- | Liddia | lidTopic | -- |
-| -- | Yen | yenTopic | -- |
-| -- | Su | suTopic | -- |
-| -- | Orz | orzTopic | -- |
+| Project | Topic | Format |
+|---------|-------|--------|
+| -- | TonyTopic | float 0.0-255.0 (brightness) |
+| -- | ETTopic | int 0-10 (direction) |
+| -- | EBTopic | float --- (temperature) |
+| -- | KelvinTopic | float --- (humidity) |
+| -- | LiddiaTopic | --- (angle) |
+| -- | AlanTopic | int 1-5 (air quality) |
+| -- | YanTopic | --- (motor speed) |
+| -- | ccTopic/knob | int 0-127 |
+| -- | ccTopic/slider | int 0-127 |
+| -- | ccTopic/button0 | int 0 or 1 |
+| -- | ccTopic/button1 | int 0 or 1 |
+
+```
+Hack the DHT sensor
+100 - 45 = 55, (2432 - 1408)/55 = 18.6
+48 - 23 = 15, (840 - 640)/15 = 13
+h = 45 + (h - 1408)/18.6
+t = 23 + (t - 640)/13.0
+```
 
 ## Connected Craft and Object Society
 
